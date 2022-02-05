@@ -21,32 +21,300 @@ Other Readings
 
 Each day's reading is listed below.
 
-| SES # | TOPICS | Readings |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**I. Introduction and Overview of Strategic Management**{{< /td-colspan >}} |||
-| 1 | The Delta Model | Hax and Wilde. Chapters 1 and 2. |
-| 2 | Porter's Frameworks and the Resource-Based View of the Firm |  {{< br >}}{{< br >}} Porter, Michael E. "Towards a Dynamic Theory of Strategy." _Strategic Management Journal_ 12 (1991): 95-117. {{< br >}}{{< br >}} Grant, Robert H. "The Resource-Based Theory of Competitive Advantage: Implications for Strategy Formulation." _California Management Review_ 33, no. 3 (1991). {{< br >}}{{< br >}} Hax and Wilde. Chapter 12. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**II. Business Strategy**{{< /td-colspan >}} |||
-| 3 | Customer Segmentation and Customer Value Proposition | Hax, Arnoldo C. "[Achieving the Potentials of Your Organization - How to Overcome the Dangers of Commoditization](http://ssrn.com/abstract=344561)." MIT Sloan Working Paper No. 4260-02. (September 2002). |
-| 4 | The Firm as a Bundle of Competencies and Putting it All Together | Hax and Wilde. Chapters 3-5. |
-| 5 | Industry Structure and Competitive Interaction | &nbsp; |
-| 6 | The Decommoditization of a Business | &nbsp; |
-| 7 | Competitive Positioning | &nbsp; |
-| {{< td-colspan 3 >}}**III. Technology and Industry Transformation**{{< /td-colspan >}} |||
-| 8 | Sustaining Competitive Advantage | &nbsp; |
-| 9 | Competitive Dynamics | &nbsp; |
-| 10 | Putting it All Together: Integrating The Critical Tasks of Strategy | Hax and Wilde. Chapter 6. |
-| {{< td-colspan 3 >}}**IV. Corporate Strategy**{{< /td-colspan >}} |||
-| 11 | Corporate Strategy - The Core Concepts | Hax, Arnoldo, and Nicolas Majluf. "Corporate Strategic Tasks." _European Management Journal_12, no. 4 (1994): 366-381. |
-| 12 | Corporate Philosophy and Culture | &nbsp; |
-| 13 | General Principles of Organization Design | Galbraith, Jay R. "Linking Customers and Products - Organizing for Product and Customer Focus," and "Structuring Global Organizations." Chapters 2 and 4 in _Tomorrow's Organization_. Edited by Susan A. Mohrman, Jay R. Galbraith, and Edward E. Lawler III. Jossey-Bass, 1998. ISBN: 0787940046. |
-| 14 | Human Resources Management and Knowledge Management | &nbsp; |
-| 15 | Business Processes: The Core Concepts and Managing the Global Supply Chain | Hax and Wilde. Chapter 7. |
-| {{< td-colspan 3 >}}**V. Aggregate and Granular Metrics**{{< /td-colspan >}} |||
-| 16 | Metrics of Value Creation |  {{< br >}}{{< br >}} Hax and Majluf. Chapter 17. {{< br >}}{{< br >}} "America's Best and Worst Wealth Creators." _Fortune_, December 18, 2000. {{< br >}}{{< br >}} "America's Best and Worst Wealth Creators." _Fortune_, December 10, 2001. {{< br >}}{{< br >}} Slywotzky, Adrian J., and Richard Wise. "The Growth Crisis and How to Escape It." _Harvard Business Review_ (July 2002): 72-83. {{< br >}}{{< br >}}  |
-| 17 | The Balanced Scorecard and Granular Metrics |  {{< br >}}{{< br >}} Hax and Wilde. Chapters 9 and 10. {{< br >}}{{< br >}} Kaplan, Robert S., and David P. Norton. "Having Trouble with Your Strategy? Then Map It." _Harvard Business Review_ (September-October 2000): 167-176. {{< br >}}{{< br >}}  |
-| {{< td-colspan 3 >}}**VI. Integration**{{< /td-colspan >}} |||
-| 18 | Organizational Leadership |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+Readings
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**I. Introduction and Overview of Strategic Management**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+The Delta Model
+{{< tdclose >}}
+{{< tdopen >}}
+Hax and Wilde. Chapters 1 and 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Porter's Frameworks and the Resource-Based View of the Firm
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Porter, Michael E. "Towards a Dynamic Theory of Strategy." _Strategic Management Journal_ 12 (1991): 95-117.
+
+Grant, Robert H. "The Resource-Based Theory of Competitive Advantage: Implications for Strategy Formulation." _California Management Review_ 33, no. 3 (1991).
+
+Hax and Wilde. Chapter 12.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**II. Business Strategy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Customer Segmentation and Customer Value Proposition
+{{< tdclose >}}
+{{< tdopen >}}
+Hax, Arnoldo C. "[Achieving the Potentials of Your Organization - How to Overcome the Dangers of Commoditization](http://ssrn.com/abstract=344561)." MIT Sloan Working Paper No. 4260-02. (September 2002).
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Firm as a Bundle of Competencies and Putting it All Together
+{{< tdclose >}}
+{{< tdopen >}}
+Hax and Wilde. Chapters 3-5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Industry Structure and Competitive Interaction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Decommoditization of a Business
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Competitive Positioning
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**III. Technology and Industry Transformation**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Sustaining Competitive Advantage
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Competitive Dynamics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Putting it All Together: Integrating The Critical Tasks of Strategy
+{{< tdclose >}}
+{{< tdopen >}}
+Hax and Wilde. Chapter 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**IV. Corporate Strategy**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Corporate Strategy - The Core Concepts
+{{< tdclose >}}
+{{< tdopen >}}
+Hax, Arnoldo, and Nicolas Majluf. "Corporate Strategic Tasks." _European Management Journal_12, no. 4 (1994): 366-381.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Corporate Philosophy and Culture
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+General Principles of Organization Design
+{{< tdclose >}}
+{{< tdopen >}}
+Galbraith, Jay R. "Linking Customers and Products - Organizing for Product and Customer Focus," and "Structuring Global Organizations." Chapters 2 and 4 in _Tomorrow's Organization_. Edited by Susan A. Mohrman, Jay R. Galbraith, and Edward E. Lawler III. Jossey-Bass, 1998. ISBN: 0787940046.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Human Resources Management and Knowledge Management
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Business Processes: The Core Concepts and Managing the Global Supply Chain
+{{< tdclose >}}
+{{< tdopen >}}
+Hax and Wilde. Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**V. Aggregate and Granular Metrics**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Metrics of Value Creation
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hax and Majluf. Chapter 17.
+
+"America's Best and Worst Wealth Creators." _Fortune_, December 18, 2000.
+
+"America's Best and Worst Wealth Creators." _Fortune_, December 10, 2001.
+
+Slywotzky, Adrian J., and Richard Wise. "The Growth Crisis and How to Escape It." _Harvard Business Review_ (July 2002): 72-83.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+The Balanced Scorecard and Granular Metrics
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hax and Wilde. Chapters 9 and 10.
+
+Kaplan, Robert S., and David P. Norton. "Having Trouble with Your Strategy? Then Map It." _Harvard Business Review_ (September-October 2000): 167-176.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**VI. Integration**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Organizational Leadership
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "readings" >}}{{< /anchor >}}General References
 ----------------------------------------------------------

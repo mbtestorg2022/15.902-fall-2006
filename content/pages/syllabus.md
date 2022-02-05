@@ -36,11 +36,48 @@ Requirements
 
 The requirements for the course and the contribution of each towards the final grade are as follows.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| One Independent Research Project | 30% |
-| Three Case Write-ups | 15% (each) |
-| Class Participation and Case Discussions | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+One Independent Research Project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Three Case Write-ups
+{{< tdclose >}}
+{{< tdopen >}}
+15% (each)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation and Case Discussions
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 
